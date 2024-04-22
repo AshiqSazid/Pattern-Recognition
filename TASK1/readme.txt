@@ -2,8 +2,7 @@ Link to unlisted YouTube video:
 https://www.youtube.com/watch?v=-b88U1KdfeQ&list=PL8qAEx_fcNs8cFtjeIf7Vj_3Tni4bTvq3
 
 Public link to the slide (Anyone on the internet can view without login):
-https://1drv.ms/p/s!AgnAd6-4o0QfhykZGWG9qJHJuEq_?e=NgSNpS
-
+https://1drv.ms/p/s!AgnAd6-4o0Qfhyt94pY78Powj2TA?e=ZWcGAF
 Paper title:
 Genre Classification of Bangla Poem Using Machine Learning and Deep Learning Techniques
 Link to the paper:
